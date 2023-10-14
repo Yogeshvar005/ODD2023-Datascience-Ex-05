@@ -135,10 +135,10 @@ df4
 ```
 ## OUTPUT :
 ## (i) Data.csv
-![273362000-387df8d7-ed25-443b-8be1-0d1bfdadaed5](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-05/assets/113497367/1ffa9116-f73f-4576-8833-688c03ce2938)
-![273362517-735bf477-174c-4ba7-91f4-9f33f817cb94](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-05/assets/113497367/e29e5532-d45d-4884-9a3a-9d5e8297b3e9)
-![273362522-ab54e0b8-7434-49a5-96cc-4902b801df42](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-05/assets/113497367/c993334a-dcca-4982-ab32-dfc525b0cd8c)
-![273362537-e3c82327-1601-4155-8cda-a0efdb142f2d](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-05/assets/113497367/9f3c246e-de22-4ac7-ba51-2117287c78e4)
+![273362000-387df8d7-ed25-443b-8be1-0d1bfdadaed5](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-05/assets/113497367/1ffa9116-f73f-4576-8833-688c03ce2938)       
+![273362517-735bf477-174c-4ba7-91f4-9f33f817cb94](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-05/assets/113497367/e29e5532-d45d-4884-9a3a-9d5e8297b3e9)      
+![273362522-ab54e0b8-7434-49a5-96cc-4902b801df42](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-05/assets/113497367/c993334a-dcca-4982-ab32-dfc525b0cd8c)      
+![273362537-e3c82327-1601-4155-8cda-a0efdb142f2d](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-05/assets/113497367/9f3c246e-de22-4ac7-ba51-2117287c78e4)    
 
 ## Minmax scaling:
 ![273362126-2c6efcda-1cd1-4790-9365-59844c6998a1](https://github.com/Yogeshvar005/ODD2023-Datascience-Ex-05/assets/113497367/f8eeda58-b664-470e-9734-609dd235f177)
